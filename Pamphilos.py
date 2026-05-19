@@ -107,7 +107,7 @@ COLLECTION_LABELS = {
     "acrin_flt_breast": {"organ": "breast", "tumor": "tumor"},
     "breast_diagnosis": {"organ": "breast", "tumor": "tumor"},
     "cmb_ov": {"organ": "ovary", "tumor": "tumor"},
-    "colorectal_liver_metastases": {"organ": "skin", "tumor": "tumor"},
+    "colorectal_liver_metastases": {"organ": "colon", "tumor": "tumor"},
     "cptac_cm": {"organ": "skin", "tumor": "tumor"},
     "prostate_mri": {"organ": "prostate", "tumor": "tumor"},
     "pancreas_ct": {"organ": "pancreas", "tumor": "no_tumor"},
