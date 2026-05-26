@@ -9,7 +9,7 @@ from typing import Optional, Dict, Any # για πιο καλή οργάνωση
 @dataclass
 class Patient:
     # γενικά / generals
-    sex: str # γένος (ανατομικά, όχι φύλλο!) / sex (anatomically, not gender!)
+    sex: str # γένος (ανατομικά, όχι φύλο!) / sex (anatomically, not gender!)
     age: int # ηλικία / age
     cancer_type: str # σε ποιό όργανο είναι ο καρκίνος / which organ the cancer is at
     cancer_stage: str # και σε ποιό στάδιο / and which stage
