@@ -1,7 +1,10 @@
 # the-thesis-that-gave-me-tendonitis
 My final thesis for university, and personal research on cancer.
 
-DISCLAIMER : I am not a doctor or any sort of medical professional! I am merely a computer science student hoping to maybe help someone smarter than myself with their own research. The link to my research paper will be included here once published.
+DISCLAIMER : I am not a doctor or any sort of medical professional! I am merely a computer science student hoping to maybe help someone smarter than myself with their own research. You can read my research paper by following the DOI link below, as well as its official english translation (once published).
+
+Greek (original) : https://doi.org/10.13140/RG.2.2.33559.33447
+English (translated by author) : in progress! :)
 
 Pamphilos.py is a CNN model designed to detect whether an x-ray scan image contains a tumor or not. The model uses ResNet18 as a backbone, trains on samples provided by the public IDC database of the US National Institute for Cancer, contains several safety mechanisms, and creates informational graphs via external libraries.
 
